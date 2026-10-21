@@ -1,4 +1,4 @@
-# web-attack-https-ipv4
+# web-attack-ipv4
 
 Repositori ini berisi kumpulan alamat IP yang teridentifikasi dalam aktivitas serangan terhadap layanan web berdasarkan hasil deteksi Wazuh. 
 Data dikumpulkan dari log keamanan selama observasi dan dapat dimanfaatkan untuk analisis ancaman, korelasi log, pengembangan aturan SIEM, 
